@@ -12,6 +12,8 @@
 
 **A modern, secure, and efficient digital gate pass management system for Sri Manakula Vinayagar Engineering College**
 
+🌐 **Live Demo:** [https://smart-gate-green.vercel.app/](https://smart-gate-green.vercel.app/)
+
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Usage](#-usage) • [API Reference](#-api-reference)
 
 </div>
